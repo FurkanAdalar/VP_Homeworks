@@ -1,0 +1,10 @@
+C:\Users\MyComp\source\repos\HesapMakinesiProgramı\HesapMakinesiProgramı\bin\Debug\HesapMakinesiProgramı.exe.config
+C:\Users\MyComp\source\repos\HesapMakinesiProgramı\HesapMakinesiProgramı\bin\Debug\HesapMakinesiProgramı.exe
+C:\Users\MyComp\source\repos\HesapMakinesiProgramı\HesapMakinesiProgramı\bin\Debug\HesapMakinesiProgramı.pdb
+C:\Users\MyComp\source\repos\HesapMakinesiProgramı\HesapMakinesiProgramı\obj\Debug\HesapMakinesiProgramı.csproj.AssemblyReference.cache
+C:\Users\MyComp\source\repos\HesapMakinesiProgramı\HesapMakinesiProgramı\obj\Debug\HesapMakinesiProgramı.Form1.resources
+C:\Users\MyComp\source\repos\HesapMakinesiProgramı\HesapMakinesiProgramı\obj\Debug\HesapMakinesiProgramı.Properties.Resources.resources
+C:\Users\MyComp\source\repos\HesapMakinesiProgramı\HesapMakinesiProgramı\obj\Debug\HesapMakinesiProgramı.csproj.GenerateResource.cache
+C:\Users\MyComp\source\repos\HesapMakinesiProgramı\HesapMakinesiProgramı\obj\Debug\HesapMakinesiProgramı.csproj.CoreCompileInputs.cache
+C:\Users\MyComp\source\repos\HesapMakinesiProgramı\HesapMakinesiProgramı\obj\Debug\HesapMakinesiProgramı.exe
+C:\Users\MyComp\source\repos\HesapMakinesiProgramı\HesapMakinesiProgramı\obj\Debug\HesapMakinesiProgramı.pdb

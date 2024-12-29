@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MyComp\\source\\repos\\OgrenciUygulamasi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40247887-C180-4A64-978E-88C0CF3F39B5}|OgrenciUygulamasi\\OgrenciUygulamasi.csproj|c:\\users\\mycomp\\source\\repos\\ogrenciuygulamasi\\ogrenciuygulamasi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40247887-C180-4A64-978E-88C0CF3F39B5}|OgrenciUygulamasi\\OgrenciUygulamasi.csproj|solutionrelative:ogrenciuygulamasi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40247887-C180-4A64-978E-88C0CF3F39B5}|OgrenciUygulamasi\\OgrenciUygulamasi.csproj|c:\\users\\mycomp\\source\\repos\\ogrenciuygulamasi\\ogrenciuygulamasi\\ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40247887-C180-4A64-978E-88C0CF3F39B5}|OgrenciUygulamasi\\OgrenciUygulamasi.csproj|solutionrelative:ogrenciuygulamasi\\ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ogrenci.cs",
+              "DocumentMoniker": "C:\\Users\\MyComp\\source\\repos\\OgrenciUygulamasi\\OgrenciUygulamasi\\Ogrenci.cs",
+              "RelativeDocumentMoniker": "OgrenciUygulamasi\\Ogrenci.cs",
+              "ToolTip": "C:\\Users\\MyComp\\source\\repos\\OgrenciUygulamasi\\OgrenciUygulamasi\\Ogrenci.cs",
+              "RelativeToolTip": "OgrenciUygulamasi\\Ogrenci.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T17:53:33.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MyComp\\source\\repos\\OgrenciUygulamasi\\OgrenciUygulamasi\\Program.cs",
+              "RelativeDocumentMoniker": "OgrenciUygulamasi\\Program.cs",
+              "ToolTip": "C:\\Users\\MyComp\\source\\repos\\OgrenciUygulamasi\\OgrenciUygulamasi\\Program.cs",
+              "RelativeToolTip": "OgrenciUygulamasi\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAYwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T17:48:17.301Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

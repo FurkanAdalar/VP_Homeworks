@@ -1,0 +1,14 @@
+C:\Users\MyComp\source\repos\Denemeler\Denemeler\bin\Debug\net8.0\Denemeler.exe
+C:\Users\MyComp\source\repos\Denemeler\Denemeler\bin\Debug\net8.0\Denemeler.deps.json
+C:\Users\MyComp\source\repos\Denemeler\Denemeler\bin\Debug\net8.0\Denemeler.runtimeconfig.json
+C:\Users\MyComp\source\repos\Denemeler\Denemeler\bin\Debug\net8.0\Denemeler.dll
+C:\Users\MyComp\source\repos\Denemeler\Denemeler\bin\Debug\net8.0\Denemeler.pdb
+C:\Users\MyComp\source\repos\Denemeler\Denemeler\obj\Debug\net8.0\Denemeler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MyComp\source\repos\Denemeler\Denemeler\obj\Debug\net8.0\Denemeler.AssemblyInfoInputs.cache
+C:\Users\MyComp\source\repos\Denemeler\Denemeler\obj\Debug\net8.0\Denemeler.AssemblyInfo.cs
+C:\Users\MyComp\source\repos\Denemeler\Denemeler\obj\Debug\net8.0\Denemeler.csproj.CoreCompileInputs.cache
+C:\Users\MyComp\source\repos\Denemeler\Denemeler\obj\Debug\net8.0\Denemeler.dll
+C:\Users\MyComp\source\repos\Denemeler\Denemeler\obj\Debug\net8.0\refint\Denemeler.dll
+C:\Users\MyComp\source\repos\Denemeler\Denemeler\obj\Debug\net8.0\Denemeler.pdb
+C:\Users\MyComp\source\repos\Denemeler\Denemeler\obj\Debug\net8.0\Denemeler.genruntimeconfig.cache
+C:\Users\MyComp\source\repos\Denemeler\Denemeler\obj\Debug\net8.0\ref\Denemeler.dll

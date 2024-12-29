@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MyComp\\source\\repos\\Chapter_7_\u00D6dev_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AABCD02-1F8B-4C31-9814-1A352643C270}|Chapter_7_\u00D6dev_2\\Chapter_7_\u00D6dev_2.csproj|c:\\users\\mycomp\\source\\repos\\chapter_7_\u00F6dev_2\\chapter_7_\u00F6dev_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AABCD02-1F8B-4C31-9814-1A352643C270}|Chapter_7_\u00D6dev_2\\Chapter_7_\u00D6dev_2.csproj|solutionrelative:chapter_7_\u00F6dev_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MyComp\\source\\repos\\Chapter_7_\u00D6dev_2\\Chapter_7_\u00D6dev_2\\Program.cs",
+              "RelativeDocumentMoniker": "Chapter_7_\u00D6dev_2\\Program.cs",
+              "ToolTip": "C:\\Users\\MyComp\\source\\repos\\Chapter_7_\u00D6dev_2\\Chapter_7_\u00D6dev_2\\Program.cs",
+              "RelativeToolTip": "Chapter_7_\u00D6dev_2\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T09:54:07.511Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\MyComp\source\repos\Chapter_7_Ödev_1\Chapter_7_Ödev_1\obj\Debug\net8.0\Chapter_7_Ödev_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MyComp\source\repos\Chapter_7_Ödev_1\Chapter_7_Ödev_1\obj\Debug\net8.0\Chapter_7_Ödev_1.AssemblyInfoInputs.cache
+C:\Users\MyComp\source\repos\Chapter_7_Ödev_1\Chapter_7_Ödev_1\obj\Debug\net8.0\Chapter_7_Ödev_1.AssemblyInfo.cs
+C:\Users\MyComp\source\repos\Chapter_7_Ödev_1\Chapter_7_Ödev_1\obj\Debug\net8.0\Chapter_7_Ödev_1.csproj.CoreCompileInputs.cache
+C:\Users\MyComp\source\repos\Chapter_7_Ödev_1\Chapter_7_Ödev_1\bin\Debug\net8.0\Chapter_7_Ödev_1.exe
+C:\Users\MyComp\source\repos\Chapter_7_Ödev_1\Chapter_7_Ödev_1\bin\Debug\net8.0\Chapter_7_Ödev_1.deps.json
+C:\Users\MyComp\source\repos\Chapter_7_Ödev_1\Chapter_7_Ödev_1\bin\Debug\net8.0\Chapter_7_Ödev_1.runtimeconfig.json
+C:\Users\MyComp\source\repos\Chapter_7_Ödev_1\Chapter_7_Ödev_1\bin\Debug\net8.0\Chapter_7_Ödev_1.dll
+C:\Users\MyComp\source\repos\Chapter_7_Ödev_1\Chapter_7_Ödev_1\bin\Debug\net8.0\Chapter_7_Ödev_1.pdb
+C:\Users\MyComp\source\repos\Chapter_7_Ödev_1\Chapter_7_Ödev_1\obj\Debug\net8.0\Chapter_7_Ödev_1.dll
+C:\Users\MyComp\source\repos\Chapter_7_Ödev_1\Chapter_7_Ödev_1\obj\Debug\net8.0\refint\Chapter_7_Ödev_1.dll
+C:\Users\MyComp\source\repos\Chapter_7_Ödev_1\Chapter_7_Ödev_1\obj\Debug\net8.0\Chapter_7_Ödev_1.pdb
+C:\Users\MyComp\source\repos\Chapter_7_Ödev_1\Chapter_7_Ödev_1\obj\Debug\net8.0\Chapter_7_Ödev_1.genruntimeconfig.cache
+C:\Users\MyComp\source\repos\Chapter_7_Ödev_1\Chapter_7_Ödev_1\obj\Debug\net8.0\ref\Chapter_7_Ödev_1.dll

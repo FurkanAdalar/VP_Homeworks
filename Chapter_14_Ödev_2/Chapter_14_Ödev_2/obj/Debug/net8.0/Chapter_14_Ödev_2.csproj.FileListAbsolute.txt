@@ -1,0 +1,14 @@
+C:\Users\MyComp\source\repos\Chapter_14_Ödev_2\Chapter_14_Ödev_2\bin\Debug\net8.0\Chapter_14_Ödev_2.exe
+C:\Users\MyComp\source\repos\Chapter_14_Ödev_2\Chapter_14_Ödev_2\bin\Debug\net8.0\Chapter_14_Ödev_2.deps.json
+C:\Users\MyComp\source\repos\Chapter_14_Ödev_2\Chapter_14_Ödev_2\bin\Debug\net8.0\Chapter_14_Ödev_2.runtimeconfig.json
+C:\Users\MyComp\source\repos\Chapter_14_Ödev_2\Chapter_14_Ödev_2\bin\Debug\net8.0\Chapter_14_Ödev_2.dll
+C:\Users\MyComp\source\repos\Chapter_14_Ödev_2\Chapter_14_Ödev_2\bin\Debug\net8.0\Chapter_14_Ödev_2.pdb
+C:\Users\MyComp\source\repos\Chapter_14_Ödev_2\Chapter_14_Ödev_2\obj\Debug\net8.0\Chapter_14_Ödev_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MyComp\source\repos\Chapter_14_Ödev_2\Chapter_14_Ödev_2\obj\Debug\net8.0\Chapter_14_Ödev_2.AssemblyInfoInputs.cache
+C:\Users\MyComp\source\repos\Chapter_14_Ödev_2\Chapter_14_Ödev_2\obj\Debug\net8.0\Chapter_14_Ödev_2.AssemblyInfo.cs
+C:\Users\MyComp\source\repos\Chapter_14_Ödev_2\Chapter_14_Ödev_2\obj\Debug\net8.0\Chapter_14_Ödev_2.csproj.CoreCompileInputs.cache
+C:\Users\MyComp\source\repos\Chapter_14_Ödev_2\Chapter_14_Ödev_2\obj\Debug\net8.0\Chapter_14_Ödev_2.dll
+C:\Users\MyComp\source\repos\Chapter_14_Ödev_2\Chapter_14_Ödev_2\obj\Debug\net8.0\refint\Chapter_14_Ödev_2.dll
+C:\Users\MyComp\source\repos\Chapter_14_Ödev_2\Chapter_14_Ödev_2\obj\Debug\net8.0\Chapter_14_Ödev_2.pdb
+C:\Users\MyComp\source\repos\Chapter_14_Ödev_2\Chapter_14_Ödev_2\obj\Debug\net8.0\Chapter_14_Ödev_2.genruntimeconfig.cache
+C:\Users\MyComp\source\repos\Chapter_14_Ödev_2\Chapter_14_Ödev_2\obj\Debug\net8.0\ref\Chapter_14_Ödev_2.dll

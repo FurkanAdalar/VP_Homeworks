@@ -1,0 +1,14 @@
+C:\Users\MyComp\source\repos\OgrenciUygulamasi\OgrenciUygulamasi\bin\Debug\net8.0\OgrenciUygulamasi.exe
+C:\Users\MyComp\source\repos\OgrenciUygulamasi\OgrenciUygulamasi\bin\Debug\net8.0\OgrenciUygulamasi.deps.json
+C:\Users\MyComp\source\repos\OgrenciUygulamasi\OgrenciUygulamasi\bin\Debug\net8.0\OgrenciUygulamasi.runtimeconfig.json
+C:\Users\MyComp\source\repos\OgrenciUygulamasi\OgrenciUygulamasi\bin\Debug\net8.0\OgrenciUygulamasi.dll
+C:\Users\MyComp\source\repos\OgrenciUygulamasi\OgrenciUygulamasi\bin\Debug\net8.0\OgrenciUygulamasi.pdb
+C:\Users\MyComp\source\repos\OgrenciUygulamasi\OgrenciUygulamasi\obj\Debug\net8.0\OgrenciUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MyComp\source\repos\OgrenciUygulamasi\OgrenciUygulamasi\obj\Debug\net8.0\OgrenciUygulamasi.AssemblyInfoInputs.cache
+C:\Users\MyComp\source\repos\OgrenciUygulamasi\OgrenciUygulamasi\obj\Debug\net8.0\OgrenciUygulamasi.AssemblyInfo.cs
+C:\Users\MyComp\source\repos\OgrenciUygulamasi\OgrenciUygulamasi\obj\Debug\net8.0\OgrenciUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\MyComp\source\repos\OgrenciUygulamasi\OgrenciUygulamasi\obj\Debug\net8.0\OgrenciUygulamasi.dll
+C:\Users\MyComp\source\repos\OgrenciUygulamasi\OgrenciUygulamasi\obj\Debug\net8.0\refint\OgrenciUygulamasi.dll
+C:\Users\MyComp\source\repos\OgrenciUygulamasi\OgrenciUygulamasi\obj\Debug\net8.0\OgrenciUygulamasi.pdb
+C:\Users\MyComp\source\repos\OgrenciUygulamasi\OgrenciUygulamasi\obj\Debug\net8.0\OgrenciUygulamasi.genruntimeconfig.cache
+C:\Users\MyComp\source\repos\OgrenciUygulamasi\OgrenciUygulamasi\obj\Debug\net8.0\ref\OgrenciUygulamasi.dll
